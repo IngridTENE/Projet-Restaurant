@@ -2,7 +2,7 @@
 
 ***LES FICHIERS DU PROJET SONT DANS LA BRANCHE "master"***
 
-# MiniProjet-Restaurant
+# Projet-Restaurant
 Mini projet donnée en cours de technologie Web 
 
 Dans ce projet j'ai pu passer du mode interprté  au mode compilé, en utilisant "vue create projet", ce qui à contribuer à rendre le debuggage moins fastidieux.
