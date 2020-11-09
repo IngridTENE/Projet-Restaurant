@@ -1,6 +1,6 @@
 #Ingrid Daniele TENE MAFFO ---M1 MIAGE
 
-***LES FICHIERS DU PROJET SONT DANS LA BRANCHE MASTER****
+***LES FICHIERS DU PROJET SONT DANS LA BRANCHE MASTER***
 
 # MiniProjet-Restaurant
 Mini projet donnée en cours de technologie Web 
